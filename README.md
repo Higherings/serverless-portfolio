@@ -4,3 +4,4 @@ Serverless portfolio with AWS and ReactJS.
 ## Technologies Used
 
 Git - GitHub
+HTML - CSS
