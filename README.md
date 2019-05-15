@@ -1,2 +1,2 @@
-# serverless-portfolio
-Serverless portfolio
+# Iván García Serverless Portfolio
+Serverless portfolio with AWS and ReactJS.
