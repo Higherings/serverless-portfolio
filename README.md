@@ -3,4 +3,4 @@ Serverless portfolio with CloudFormation.
 
 ## Technologies Used
 
-CloudFormation
+ResourceType
