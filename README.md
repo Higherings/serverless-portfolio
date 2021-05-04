@@ -1,7 +1,6 @@
-# Iván García Serverless Portfolio
-Serverless portfolio with AWS and ReactJS.
+# Iván García Serverless Portfolio in CloudFormation
+Serverless portfolio with CloudFormation.
 
 ## Technologies Used
 
-Git - GitHub
-HTML - CSS
+CloudFormation
